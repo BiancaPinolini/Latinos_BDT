@@ -1,3 +1,5 @@
+# example of configuration file
+
 tag = '2018_BDT'
 outputDir = 'RootFiles'
 treeName = 'Events'
@@ -5,14 +7,8 @@ treeName = 'Events'
 # luminosity to normalize to
 lumi = 59.74
 
-# file with TTree aliases
-aliasesFile = 'aliases.py'
-
 # file with list of variables
 variablesFile = 'variables.py'
-
-# file with list of cuts
-cutsFile = 'cuts.py'
 
 # file with list of samples
 samplesFile = 'samples.py'
